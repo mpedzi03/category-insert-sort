@@ -1,0 +1,62 @@
+[
+  {
+    "name": "d",
+    "id": 4,
+    "parent_id": 5
+  },
+  {
+    "name": "i",
+    "id": 2,
+    "parent_id": 7
+  },
+  {
+    "name": "f",
+    "id": 99,
+    "parent_id": 88
+  },
+  {
+    "name": "g",
+    "id": 7,
+    "parent_id": 99
+  },
+  {
+    "name": "h",
+    "id": 3,
+    "parent_id": 7
+  },
+  {
+    "name": "e",
+    "id": 88,
+    "parent_id": null
+  },
+  {
+    "name": "Accessories",
+    "id": 1,
+    "parent_id": 20
+  },
+  {
+    "name": "Watches",
+    "id": 57,
+    "parent_id": 1
+  },
+  {
+    "name": "a",
+    "id": 12,
+    "parent_id": null
+  },
+  {
+    "name": "b",
+    "id": 36,
+    "parent_id": 12
+  },
+  {
+    "name": "c",
+    "id": 5,
+    "parent_id": 36
+  },
+  {
+    "name": "Men",
+    "id": 20,
+    "parent_id": null
+  }
+]
